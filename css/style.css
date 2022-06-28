@@ -1,5 +1,16 @@
+<<<<<<< HEAD
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
+=======
+header{
+  height: 10vh;
+}
+main{
+  height: 100%;
+}
+
+
+>>>>>>> 4a819416862d1036e83b5e75605fc696dff1cec2
